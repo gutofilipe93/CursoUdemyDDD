@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Manutencao.Solicitante\Manutencao.Solicitante.Aplicacao\Manutencao.Solicitante.Aplicacao.csproj" />
     <ProjectReference Include="..\..\src\Manutencao.Solicitante\Manutencao.Solicitante.Dominio\Manutencao.Solicitante.Dominio.csproj" />
   </ItemGroup>
 
